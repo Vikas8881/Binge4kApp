@@ -1,6 +1,6 @@
 {
-  "versionCode": 1304,
-  "versionName": "13.0.4",
+  "versionCode": 1306,
+  "versionName": "13.0.6",
   "apkUrl": "https://tinyurl.com/3xbe6c28",
   "sha256": "c8a1b7f43a06d2d32c6e11c2c2be31d913cd4a75c5f23b89f7ac16b1530aa2fb",
   "changelog": "🆕 What's New in Binge4k\n\n🚀 Performance & Stability\n\n• Server Error completely fixed — enjoy uninterrupted streaming!\n• Faster app loading and improved overall stability\n• Enhanced parsing for Live TV, Movies, and Series\n\n🎬 Interface & Experience\n\n• Live Preview now runs smoothly in the background\n• EPG size increased for better schedule visibility\n• Added Feedback Screen — available in Settings and on Content pages\n• If a movie has multiple languages, all are now shown on the same details page\n• Added Manage Categories option in Settings\n• Parent Lock: Locked categories now ask for a password\n• You can switch settings between “Old” and “New” mode if you see old content first — this depends on your IPTV type\n• You can now pin your favourite categories to the top for quicker access\n\n📺 Live TV Controls\n\n• Single Click → Change channel (Up/Down)\n• Double Click → Switch to Big Screen Mode\n• Double Click on Channel → Add to Favourites\n\n📡 Google TV / Android TV Enhancements\n\n• Continue Watching now appears directly on your TV home screen\n• Top Trending Movies & Series (based on your region) now visible on TV home — enable it from Customize Channels in your TV settings\n\n📩 Need help or want to share feedback?\nJoin us on Telegram: https://t.me/devil8881"
